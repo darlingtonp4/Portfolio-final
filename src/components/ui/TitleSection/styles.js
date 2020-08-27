@@ -11,7 +11,7 @@ export const Title = styled.h2`
 `;
 
 export const SubTitle = styled.h4`
-  ${tw`text-xs text-pink-500 w-full text-left`};
+  ${tw`text-xs text-blue-500 w-full text-left`};
   ${({ center }) => center && tw`text-center`};
 `;
 
